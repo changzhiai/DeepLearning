@@ -1,5 +1,10 @@
 # Course 02456 for Deep Learning
 
+Course plan and information:
+https://docs.google.com/document/d/1u8RbsHT3DaFintHZxiRKoYtFGuwMLAPg/edit#heading=h.gjdgxs
+or:
+https://docs.google.com/document/d/1GsP-G1NkfUEPV7J3c-JevdAorPedI1KglN69dffC2Rk/edit
+
 Slides: 
 https://drive.google.com/drive/folders/0BxJRy96AHCJxYzZQMzJQakNNMEk?resourcekey=0-RGKH4d1mCsPhpVdlb_r2tw
 
