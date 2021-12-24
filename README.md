@@ -19,3 +19,8 @@ https://github.com/DeepLearningDTU/02456-deep-learning-with-PyTorch
 
 TensorFlow version notebook:
 https://github.com/DeepLearningDTU/02456-deep-learning
+
+Textbook:
+http://neuralnetworksanddeeplearning.com/
+or:
+https://www.deeplearningbook.org/
