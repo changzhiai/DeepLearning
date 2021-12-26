@@ -24,3 +24,6 @@ Textbook:
 http://neuralnetworksanddeeplearning.com/
 or:
 https://www.deeplearningbook.org/
+
+Reference execise:
+https://gitlab.gbar.dtu.dk/pnha/02456_deep_learning
