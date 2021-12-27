@@ -27,3 +27,5 @@ https://www.deeplearningbook.org/
 
 Reference execise:
 https://gitlab.gbar.dtu.dk/pnha/02456_deep_learning
+or:
+https://github.com/DeepLearningDTU/Deep-Learning-with-PyTorch-1weekcourse
